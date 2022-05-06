@@ -2,14 +2,16 @@
 #include<conio.h>
 main()
 {
-	int r,c;
-	for(r=1;r<=4;r++)
-	{
-		for(c=1;c<=r;c++)
+	int r,c,s;
+		for(r=1;r<=3;r++)
 		{
-			printf("%d",c%2);
-		}
+			for(s=3;s>=r;s--)
+			 printf(" ");
+			 
+			for(c=1;c<=r;c++)
+			{
+		    	printf("%d",c);
+		    }
 		printf("\n");
-	}
-
+	   }
 }
