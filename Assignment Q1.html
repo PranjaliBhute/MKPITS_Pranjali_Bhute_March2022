@@ -1,0 +1,28 @@
+<html>
+ <script>
+    function display()
+	{
+	  var num1=document.getElementById("n1").value;
+	  var num2=document.getElementById("n2").value;
+      if(num1<num2)
+	  {
+	   	document.getElementById("result").innerHTML="num1 is smallest number";
+	  }
+	  else if(num1>num2)
+	  {
+	    document.getElementById("result").innerHTML="num2 is smallest number";
+	  }
+	}
+ </script>
+ <body>
+  <form>
+   enter first number  : <input type="text" name="n1" id="n1"/>
+   <br><br>
+   enter second number : <input type="text" name="n2" id="n2"/>
+   <br><br>
+   <input type=button value="click" onclick="display();"/>
+   <br><br>
+   result : <span id="result"> </span>
+  </form>
+  </body>
+  </html>
