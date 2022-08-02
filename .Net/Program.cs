@@ -4,20 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AreaOfRectangle
+namespace AdditionOf3Numbers
 {
-    internal class AreaOfRectangle
+    internal class AdditionProgram
     {
         static void Main(string[] args)
         {
-            int l, w;
-            Console.WriteLine("Enter length : ");
-           l= Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter width : ");
-           w= Convert.ToInt32(Console.ReadLine());
-            int a;
-            a = l * w;
-            Console.WriteLine("Area of Rectangle = " + a);
+            int x, y, z;
+            Console.WriteLine("Enter First Number : ");
+            x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Second Number : ");
+            y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Third Number : ");
+            z = Convert.ToInt32(Console.ReadLine());
+            int result;
+            result = x + y + z;
+            Console.WriteLine("Addition of 3 Numbers : " + result );
             Console.ReadLine();
         }
     }
