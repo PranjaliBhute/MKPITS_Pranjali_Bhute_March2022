@@ -1,0 +1,22 @@
+<html>
+<script>
+function factorial()
+{
+  var num =parseInt(document.getElementById("t1").value);
+  var fact = 1;
+  var i = num;
+  do{
+      fact=fact*i;
+	  i--;
+    }while(i>0);
+document.getElementById("res").innerHTML = fact;
+}
+</script>
+<body>
+enter number : <input type="text" id="t1" name="t1"/>
+<br><br>
+<input type=button value="click" onclick="factorial();"/>
+<br><br>
+result : <span id="res"></span>
+</body>
+</html>
