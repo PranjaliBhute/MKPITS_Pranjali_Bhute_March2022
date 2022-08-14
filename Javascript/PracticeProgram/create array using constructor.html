@@ -1,0 +1,31 @@
+<html>
+<script>
+  function getresult(m1,m2,m3)
+  {
+    //1 way to create array using constructor
+	//emp=new Array(m1,m2,m3);
+	//2 way to create array using literal
+	//var emp=[m1,m2,m3];
+	//3 way by using new keyword
+var emp=new Array();
+emp[0]=m1;
+emp[1]=m2;
+emp[2]=m3;
+//emp={empno:m1,name:m2,salary:m3}
+    document.getElementById("t").innerHTML=emp[0];
+	document.getElementById("p").innerHTML=emp[1];
+	document.getElementById("s").innerHTML=emp[2];
+	}
+    </script>  
+    <form name="f1" >  
+	enter empcode : <input type=text name="t1" /><br><br>
+	enter name : <input type=text name="t2" /><br><br>
+	enter designation: <input type=text name="t3" /><br><br>
+    <input type="button" value="click" onclick="getresult(document.f1.t1.value,document.f1.t2.value,document.f1.t3.value)"/>  
+<br><br>
+empcode <span id="t" ></span> <br><br>
+empname <span id="p" ></span> <br><br>   
+designation <span id="s" ></span> <br><br>  
+
+</form>  
+</html>
