@@ -1,0 +1,22 @@
+<html>
+<script>
+function getresult(m1,m2,m3)
+	{
+	emp={empno:m1,name:m2,salary:m3}
+	document.getElementById("t").innerHTML=emp.empno;
+	document.getElementById("p").innerHTML=emp.name;
+	document.getElementById("s").innerHTML=emp.salary;
+	}
+    </script>  
+    <form name="f1" >  
+	enter empno : <input type=text name="t1" /><br><br>
+	enter name : <input type=text name="t2" /><br><br>
+	enter salary: <input type=text name="t3" /><br><br>
+    <input type="button" value="click" onclick="getresult(document.f1.t1.value,document.f1.t2.value,document.f1.t3.value)"/>  
+<br><br>
+empno <span id="t" ></span> <br><br>
+empname <span id="p" ></span> <br><br>   
+salary <span id="s" ></span> <br><br>  
+</script>
+</html>
+ 
