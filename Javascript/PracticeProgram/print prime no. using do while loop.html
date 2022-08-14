@@ -1,0 +1,28 @@
+<html>
+<script>
+function prime()
+{
+   
+   var num =parseInt(prompt("enter no."));
+  var num,i,flag=0;
+  var i =1;
+  do{
+     if(num%i==0)
+    {
+     flag=flag+1;
+    }
+    i++;
+   }while(i<=num);
+   if(flag==2)
+{
+  document.write("Given no. is prime.");
+}
+else
+{
+  document.write("Given no. is not prime.");
+}  
+  //document.getElementById("res").innerText=flag;
+}
+prime();
+</script>
+ </html> 
