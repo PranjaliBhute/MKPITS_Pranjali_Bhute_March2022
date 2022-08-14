@@ -1,0 +1,36 @@
+<html>
+  <script>  
+	
+	function  product(id,name,price)
+	{
+	this.id=id;
+	this.name=name;
+	this.price=price;
+	}
+	
+	function display()
+	{
+   p=new product(document.getElementById("t1").value,document.getElementById("t2").value,document.getElementById("t3").value);
+
+
+
+  document.getElementById("s1").innerText=p.id;
+  document.getElementById("s2").innerText=p.name;
+  document.getElementById("s3").innerText=p.price;
+   }
+  </script> 
+
+<form>
+enter product id : <input type=text id="t1" />
+<br><br>
+enter product name : <input type=text id="t2" />
+<br><br>
+enter product price : <input type=text id="t3" />
+<br><br>
+<input type=button onclick="display();" value=show /><br>
+product id : <span id="s1" ></span> <br>
+product  name: <span id="s2" ></span> <br>
+product price : <span id="s3" ></span> <br>
+</form>	
+</html>
+
