@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Palyndrom Program</title>
+  </head>
+  <script>
+    function palyndrom()
+	{
+	  num=parseInt(document.getElementById("t1").value);
+	  var n1,n2,n3,num,temp,res;
+	  temp=num;
+	  n1=num%10;
+	  num=parseInt(num/10);
+	  n2=num%10;
+	  num=parseInt(num/10);
+	  n3=num%10;
+	  res=n1*100+n2*10+n3*1;
+	  //console.log(temp);
+	  if(temp==res)
+	  {
+	   alert("Given no. is Palyndrom");
+	  }
+	  else
+	  {
+	    alert("Given no. is not Palyndrom");
+	  }
+	  
+	}
+  </script>
+  <br>
+<body>
+    enter the number: <input type="text" name="t1" id="t1"/>
+    <button onclick="palyndrom()">check</button>
+
+</body>
+  </html>
