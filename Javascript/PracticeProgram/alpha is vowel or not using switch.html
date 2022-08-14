@@ -1,0 +1,33 @@
+<html>
+<head>
+<script>
+  function vowel()
+  {
+    var ch;
+	ch=document.getElementById("v1").value;
+	switch(ch)
+	{
+	  case 'a':
+	  case 'e':
+	  case 'i':
+	  case 'o':
+	  case 'u':
+	  document.getElementById("char").innerHTML="It is vowel.";
+	  break;
+	  default:
+	  document.getElementById("char").innerHTML="It is not vowel.";
+	  break;
+	}
+  }
+  </script>
+  </head>
+  <body>
+  <form>
+  enter first alphabet : <input type="text" id="v1" name="v1"/>
+  <br><br>
+  <input type=button value="click" onclick="vowel();"/>
+  <br><br>
+  result : <span id="char" > </span>
+  </form>
+  </body>
+  </html>
