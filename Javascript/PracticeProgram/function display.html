@@ -1,0 +1,28 @@
+<html>
+<script>  
+	function display()
+	{
+	
+  var product=new Object();
+   product.id=document.getElementById("t1").value;
+		product.name=document.getElementById("t2").value;
+			product.price=document.getElementById("t3").value;
+
+
+  document.getElementById("s1").innerText=product.id;
+  document.getElementById("s2").innerText=product.name;
+  document.getElementById("s3").innerText=product.price;
+   }
+    </script> 
+
+<form>
+enter product id : <input type=text id="t1" /><br>
+enter product name : <input type=text id="t2" /><br>
+enter product price : <input type=text id="t3" /><br>
+<input type=button onclick="display();" value=show />
+product id : <span id="s1" ></span> <br>
+product  name: <span id="s2" ></span> <br>
+product price : <span id="s3" ></span> <br>
+</form>	
+</html>
+
