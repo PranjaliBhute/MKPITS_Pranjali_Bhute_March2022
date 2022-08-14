@@ -1,0 +1,35 @@
+<html>
+<script>
+function prime() 
+{
+  var num =document.getElementById("t1").value;
+  var num,i,flag=0;
+  var i =1;
+  //console.log(num);
+ do
+{
+ if(num%i==0)
+ {
+   flag=flag+1;
+ }
+ i++;
+}while(i<=num);
+if(flag==2)
+{
+  document.write("Given no. is prime.");
+}
+else
+{
+  document.write("Given no. is not prime.");
+}  
+  document.getElementById("res").innerText=flag;
+}
+</script>
+<body>
+enter number : <input type="text" id="t1" name="t1"/>
+<br><br>
+<input type=button value="click" onclick="prime();"/>
+<br><br>
+result : <span id="res"></span>
+</body>
+</html>
