@@ -1,0 +1,6 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\bin\Debug\Calculatelibrary.dll
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\bin\Debug\Calculatelibrary.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\obj\Debug\Calculatelibrary.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\obj\Debug\Calculatelibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\obj\Debug\Calculatelibrary.dll
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Calculatelibrary\Calculatelibrary\obj\Debug\Calculatelibrary.pdb
