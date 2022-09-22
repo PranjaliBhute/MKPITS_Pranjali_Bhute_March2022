@@ -1,0 +1,11 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
