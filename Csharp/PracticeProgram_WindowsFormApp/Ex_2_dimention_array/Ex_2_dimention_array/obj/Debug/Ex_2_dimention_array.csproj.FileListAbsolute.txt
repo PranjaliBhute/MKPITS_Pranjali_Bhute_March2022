@@ -1,0 +1,11 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\bin\Debug\Ex_2_dimention_array.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\bin\Debug\Ex_2_dimention_array.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\bin\Debug\Ex_2_dimention_array.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(23August)PracticeProgram\Ex_2_dimention_array\Ex_2_dimention_array\obj\Debug\Ex_2_dimention_array.pdb
