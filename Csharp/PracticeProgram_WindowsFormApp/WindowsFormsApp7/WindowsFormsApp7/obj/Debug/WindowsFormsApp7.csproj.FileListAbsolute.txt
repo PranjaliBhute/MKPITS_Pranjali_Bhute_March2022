@@ -1,0 +1,11 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\Desktop app or windows form(22 August)PracticeProgram\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
