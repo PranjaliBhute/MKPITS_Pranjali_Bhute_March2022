@@ -1,0 +1,14 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\bin\Debug\Another ex of Classlibrary.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\bin\Debug\Another ex of Classlibrary.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\bin\Debug\Another ex of Classlibrary.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\bin\Debug\Bank.dll
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\bin\Debug\Bank.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another_ex_of_Classlibrary.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another_ex_of_Classlibrary.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.csproj.CopyComplete
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Another ex of Classlibrary\Another ex of Classlibrary\obj\Debug\Another ex of Classlibrary.pdb
