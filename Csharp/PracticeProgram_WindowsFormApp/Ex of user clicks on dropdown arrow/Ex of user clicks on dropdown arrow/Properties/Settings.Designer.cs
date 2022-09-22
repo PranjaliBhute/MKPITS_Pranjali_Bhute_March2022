@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Test.Properties
+namespace Ex_of_user_clicks_on_dropdown_arrow.Properties
 {
 
 
