@@ -1,0 +1,11 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\bin\Debug\Example using checkbox.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\bin\Debug\Example using checkbox.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\bin\Debug\Example using checkbox.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example_using_checkbox.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example_using_checkbox.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using checkbox\Example using checkbox\obj\Debug\Example using checkbox.pdb
