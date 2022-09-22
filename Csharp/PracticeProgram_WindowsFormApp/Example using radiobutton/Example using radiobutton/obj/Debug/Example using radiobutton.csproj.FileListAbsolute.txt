@@ -1,0 +1,11 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\bin\Debug\Example using radiobutton.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\bin\Debug\Example using radiobutton.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\bin\Debug\Example using radiobutton.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example_using_radiobutton.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example_using_radiobutton.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\WindowsForm(24August)PracticeProgram\Example using radiobutton\Example using radiobutton\obj\Debug\Example using radiobutton.pdb
