@@ -1,0 +1,13 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\bin\Debug\Example of MDI form.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\bin\Debug\Example of MDI form.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\bin\Debug\Example of MDI form.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example_of_MDI_form.accountform.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example_of_MDI_form.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example_of_MDI_form.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example_of_MDI_form.registerform.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Example of MDI form\Example of MDI form\obj\Debug\Example of MDI form.pdb
