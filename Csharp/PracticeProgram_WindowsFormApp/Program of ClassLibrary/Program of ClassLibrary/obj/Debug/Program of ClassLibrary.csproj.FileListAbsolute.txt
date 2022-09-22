@@ -1,0 +1,14 @@
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\bin\Debug\Program of ClassLibrary.exe.config
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\bin\Debug\Program of ClassLibrary.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\bin\Debug\Program of ClassLibrary.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\bin\Debug\Calculatelibrary.dll
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\bin\Debug\Calculatelibrary.pdb
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program_of_ClassLibrary.Form1.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program_of_ClassLibrary.Properties.Resources.resources
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.csproj.GenerateResource.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.csproj.CopyComplete
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.exe
+C:\Users\HP-LAPTOP\Desktop\PRACTICE Program folder\ClassLibrary(26August)PracticeProgram\Program of ClassLibrary\Program of ClassLibrary\obj\Debug\Program of ClassLibrary.pdb
